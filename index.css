@@ -1,0 +1,114 @@
+
+.back {
+	background-color: #002a63;
+	height: 280px;
+	overflow-x: hidden;
+}
+
+.kata {
+	margin-left: 200px;
+}
+
+#name {
+	font-family: 'Baloo Paaji 2', cursive;
+	color: white;
+	font-size: 55px;
+	margin-top: -20px;
+}
+
+#hello {
+	font-family: 'Indie Flower', cursive;
+	color: white;
+	margin-top: 60px;
+}
+
+#me {
+	font-family: 'Manrope', sans-serif;
+	color: white;
+	margin-top: -25px;
+}
+
+#profil {
+	width: 180px;
+	height: 180px;
+	background-color: white;
+	border-radius: 50%;
+	margin-top: 30px;
+	margin-left: 100px;
+
+}
+
+.kotakgambar {
+	margin-top: 32px;
+	margin-left: 120px;
+	width: 220px;
+	height: 220px;
+	color: white;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #002a63;
+}
+
+.bulatprofile {
+	width: 230px;
+	height: 230px;
+	background-color: white;
+	border-radius: 50%;
+	margin-top: -240px;
+	margin-left: 160px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #002a63;
+}
+
+.judul-about {
+	font-family: 'Oswald', sans-serif;
+	color: #002a63;
+	margin-top: 25px;
+}
+
+hr {
+	margin-left: -0px;
+	width: 180px;
+	outline-style: solid;
+	outline-color: #002a63;;
+	outline-width: 2px;
+	background-color: #002a63;
+}
+
+.kata-kata {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 10px;
+}
+
+.button-outline {
+	font-family: 'Montserrat', sans-serif;
+	width: 90px;
+	height: 23px;
+	color: white;
+	font-size: 13px;
+	background-color: #002a63;
+	text-decoration: none;
+	border: none;
+}
+
+
+
+.button-outline-dw {
+	font-family: 'Montserrat', sans-serif;
+	width: 120px;
+	height: 23px;
+	color: #002a63;
+	font-size: 13px;
+	background-color: white;
+	text-decoration: none;
+	border-width: 1px;
+	border-color: #002a63;
+	border-style: solid;
+}
+
+.progress {
+	width: 250px;
+	height: 20px;
+	margin-top: -15px;
+}
