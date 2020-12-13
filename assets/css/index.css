@@ -1,0 +1,104 @@
+body {
+	overflow-x: hidden;
+}
+
+.right {
+	float: right;
+}
+/* === Navbar === */
+.navbar {
+	height: 60px;
+}
+
+/*======= Biodata ======= */
+.data {
+	width: 105%;
+	height: 690px;
+	background-color: #f8f9fa!important;
+}
+.biodata {
+	padding: 200px 0 0 90px;
+	margin: 0 40px 0 140px;
+}
+
+.biodata p {
+	font-family: 'Open Sans', sans-serif;
+	color: #808080;
+}
+
+.biodata .job {
+	margin-top: -7px;
+}
+
+.biodata h1 {
+	font-family: 'Roboto', sans-serif;
+	margin-top: -14px;
+	font-size: 50px;
+}
+
+.biodata h5 {
+	font-family: 'Grandstander', cursive;
+	font-size: 25px;
+}
+
+.biodata .icofont {
+	background-size: 60px;
+}
+
+.biodata .kotak {
+	width: 300px;
+	height: 300px;
+	border-style: solid;
+	border-color: blue;
+	border-width: 3px;
+	margin-top: -40px; 
+}
+
+.biodata .kotak img {
+	border-radius: 50%;
+	width: 260px;
+}
+
+.biodata .kotak .profile {
+	margin-top: 20px;
+	margin-left: -90px;
+}
+
+/* === About Me === */ 
+/* Work */
+.work {
+	margin: 100px 0 0 120px;
+}
+
+.work h3{
+	font-family: 'Lato', sans-serif;
+	font-size: 40px;
+}
+/* Education */
+.education {
+	margin: 0px 0 0 120px;
+	float: left;
+}
+
+.education h3{
+	font-family: 'Lato', sans-serif;
+	font-size: 30px;
+}
+/* Project */
+.project {
+	margin: 0px 0 0 120px;
+	float: left;
+}
+.project h3{
+	font-family: 'Lato', sans-serif;
+	font-size: 35px;
+}
+
+/*===== Bootstrap =====*/
+.btn {
+	border-radius: 40px 40px 40px 40px;
+	font-size: 14px;
+	width: 140px;
+}
+
+
